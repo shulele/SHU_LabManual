@@ -1,0 +1,36 @@
+--- 
+title: "实验室手册"
+author: "舒乐乐"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  本研究组项目手册。
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# 为什么要阅读这本书
+无论你是本研究组的学生（本硕博），还是客座研究生，还是科研助理，甚至博士后，你都应该以这本书作为了解本研究组以及你未来同学同事的入口。
+
+写这个本是为了公开重要信息，明晰权责，减少误解，确保沟通，保证各方的合理预期并达成预期。 
+
+**总结**：这本书将告诉你：明确自己应该做什么，知道别人能为你做什么，减少不切实际的要求。
+
+
+## 本书内容 
+
+本书分为以下章节：
+
+1. 前言
+1. 研究组介绍
+1. 导师制度——Advisor和Mentor
+1. 待遇——包括工资、工作条件、衣食住行等等。
+1. 科研资源与工具
+1. 生活信息——衣食住行、吃喝玩乐都有。
+1. 规则总结
+
+**祝生活如你所愿~~~**
